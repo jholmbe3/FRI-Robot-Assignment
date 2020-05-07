@@ -90,10 +90,10 @@ if __name__ == '__main__':
 
         clear_background()
         #spawn hunter turtle
-            if True: ## change to stuff about hunter/runner distance
-                spawn_turtle()
-                while True:
-                    move_turtle()
+        if True: ## change to stuff about hunter/runner distance
+            spawn_turtle()
+            while True:
+            move_turtle()
             
 
         '''while True:
