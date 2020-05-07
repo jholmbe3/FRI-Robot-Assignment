@@ -93,7 +93,7 @@ if __name__ == '__main__':
         if True: ## change to stuff about hunter/runner distance
             spawn_turtle()
             while True:
-            move_turtle()
+                move_turtle()
             
 
         '''while True:
